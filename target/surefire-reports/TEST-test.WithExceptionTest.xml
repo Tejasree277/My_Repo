@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="62" failures="0" name="test.WithExceptionTest" time="0" errors="0" skipped="0">
+  <properties>
+    <property name="jansi.mode" value="force"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="java.vm.version" value="17.0.14+7-Ubuntu-124.04"/>
+    <property name="sun.boot.library.path" value="/usr/lib/jvm/java-17-openjdk-amd64/lib"/>
+    <property name="maven.multiModuleProjectDirectory" value="/root/git/learn-pipeline-java"/>
+    <property name="java.vm.vendor" value="Ubuntu"/>
+    <property name="java.vendor.url" value="https://ubuntu.com/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=":"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="/root/git/learn-pipeline-java"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="java.runtime.version" value="17.0.14+7-Ubuntu-124.04"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="/tmp"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="os.name" value="Linux"/>
+    <property name="classworlds.conf" value="/usr/share/maven/bin/m2.conf"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="/usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib"/>
+    <property name="maven.conf" value="/usr/share/maven/conf"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="61.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="6.8.0-1024-aws"/>
+    <property name="library.jansi.path" value="/usr/share/maven/lib/jansi-native"/>
+    <property name="user.home" value="/root"/>
+    <property name="user.timezone" value="Etc/UTC"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="17"/>
+    <property name="user.name" value="root"/>
+    <property name="java.class.path" value="/usr/share/maven/boot/plexus-classworlds-2.x.jar"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean install"/>
+    <property name="java.home" value="/usr/lib/jvm/java-17-openjdk-amd64"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.version" value="17.0.14"/>
+    <property name="native.encoding" value="UTF-8"/>
+    <property name="java.vendor" value="Ubuntu"/>
+    <property name="sun.stderr.encoding" value="UTF-8"/>
+    <property name="java.specification.maintenance.version" value="1"/>
+    <property name="maven.home" value="/usr/share/maven"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.version.date" value="2025-01-21"/>
+    <property name="java.vendor.url.bug" value="https://bugs.launchpad.net/ubuntu/+source/openjdk-17"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.stdout.encoding" value="UTF-8"/>
+  </properties>
+  <testcase classname="test.WithExceptionTest" name="name_1" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_2" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_3" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_4" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_5" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_6" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_7" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_8" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_9" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_10" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_11" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_12" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_13" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_14" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_15" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_16" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_17" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_18" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_19" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_20" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_21" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_22" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_23" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_24" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_25" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_26" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_27" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_28" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_29" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_30" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_31" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_32" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_33" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_34" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_35" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_36" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_37" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_38" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_39" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_40" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_41" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_42" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_43" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_44" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_45" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_46" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_47" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_48" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_49" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_50" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_51" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_52" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_53" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_54" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_55" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_56" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_57" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_58" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_59" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_60" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_61" time="0"/>
+  <testcase classname="test.WithExceptionTest" name="name_62" time="0"/>
+</testsuite>
